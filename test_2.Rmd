@@ -1,7 +1,0 @@
----
-title: "test_2"
-author: "Lance Courtney"
-date: "1/12/2020"
-output: html_document
----
-
